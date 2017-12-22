@@ -61,3 +61,11 @@ print("输出截取")
 print(L(2))
 print("反向截取")
 print(L(-2))
+#元组内置函数
+#元组内置函数
+#元组内置函数
+print(输出元组中最大的和最小的
+)
+tuple1 = (1,2,3,4,78,34,22,)
+print(max(tuple1))
+print(min(tuple1))
