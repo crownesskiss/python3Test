@@ -54,3 +54,10 @@ print("判断元组中的元素是否存在:"'google' in num)
 print("迭代输出元组")
 for x in num:
     print(x)
+#元组截取和反向读取，元组索引
+L = ('goolge', "Taobao","return")
+print("元组:%s")
+print("输出截取")
+print(L(2))
+print("反向截取")
+print(L(-2))
